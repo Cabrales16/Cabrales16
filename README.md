@@ -11,4 +11,4 @@ Desarrollador de software en formación con enfoque en diseño centrado en el us
 JavaScript · TypeScript · React · FastAPI · PHP · Git
 
 ### 📫 Contacto
-[LinkedIn]
+LinkedIn: Andres Cabrales Baena
