@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hola, soy Andrés
 
-<!--
-**Cabrales16/Cabrales16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador de software en formación con enfoque en diseño centrado en el usuario (UCD).
 
-Here are some ideas to get you started:
+### 🚀 Proyectos destacados
+- MediConnect – Sistema médico web
+- ZaHub – Aplicación móvil de pedidos
+- Tiendas Celeste – Sistema de gestión
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tecnologías
+JavaScript · TypeScript · React · FastAPI · PHP · Git
+
+### 📫 Contacto
+[LinkedIn]
