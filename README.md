@@ -8,7 +8,42 @@ Desarrollador de software en formación con enfoque en diseño centrado en el us
 - Tiendas Celeste – Sistema de gestión
 
 ### 🛠 Tecnologías
-JavaScript · TypeScript · React · FastAPI · PHP · Git
+
+**Frontend**
+- React
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- NativeWind
+- Jest
+- Figma
+
+**Backend**
+- FastAPI
+- Node.js
+- Python
+- Postman
+
+**Bases de Datos**
+- MySQL
+- PostgreSQL
+- Supabase
+- MongoDB
+- Beekeeper Studio
+
+**Herramientas**
+- Git
+- GitHub
+- Railway
+- Render
+- VS Code
+- IntelliJ IDEA
+- Expo Go
+- Jira
+- n8n
+- Selenium
+
 
 ### 📫 Contacto
 LinkedIn: Andres Cabrales Baena
