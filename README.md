@@ -49,4 +49,5 @@ Desarrollador de software en formación con enfoque en diseño centrado en el us
 ### 📫 Contacto
 LinkedIn: Andres Cabrales Baena
 
-Mis proyectos se encuentran a continuacíon...
+
+*Mis proyectos se encuentran a continuacíon...*
