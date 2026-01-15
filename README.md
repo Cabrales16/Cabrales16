@@ -4,6 +4,7 @@ Desarrollador de software en formación con enfoque en diseño centrado en el us
 
 ### 🚀 Proyectos destacados
 - MediConnect – Sistema médico web
+- FarmaIA - Sistema de gestión de medicamentos
 - ZaHub – Aplicación móvil de pedidos
 - Tiendas Celeste – Sistema de gestión
 
