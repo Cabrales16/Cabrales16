@@ -137,7 +137,9 @@
 
 <br>
 
-<p align="center"><sub><b>FRONTEND</b></sub><br>
+<p align="center"><sub><b>FRONTEND</b></sub></p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
@@ -147,7 +149,9 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma">
 </p>
 
-<p align="center"><sub><b>BACKEND Y DATOS</b></sub><br>
+<p align="center"><sub><b>BACKEND Y DATOS</b></sub></p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
@@ -157,7 +161,9 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
 </p>
 
-<p align="center"><sub><b>PRUEBAS Y HERRAMIENTAS</b></sub><br>
+<p align="center"><sub><b>PRUEBAS Y HERRAMIENTAS</b></sub></p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat" alt="Playwright">
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" alt="Selenium">
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" alt="Jest">
